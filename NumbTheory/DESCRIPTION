@@ -1,0 +1,14 @@
+Package: NumbTheory
+Title: Number theory tools
+Version: 0.1
+Authors@R: 
+    person(given = "Michal",
+           family = "Bujak",
+           role = c("aut", "cre"),
+           email = "zmichal@outlook.com")
+Description: What the package does (one paragraph).
+License: for private use any modifications, however not for further distribution with no authorisation
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
